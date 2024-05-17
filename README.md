@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Penetration Tester</h1>
-<h3 align="center">A passionate Penetration Tester from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h3 align="center">A passionate Software Engineer from Türkiye</h3>
 
 - 📫 How to reach me **hamzaozgezici294@gmail.com**
 
